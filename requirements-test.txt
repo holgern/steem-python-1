@@ -6,4 +6,4 @@ sphinx
 recommonmark
 sphinxcontrib-restbuilder
 sphinxcontrib-programoutput
-pytest-console-script
+
