@@ -24,6 +24,7 @@ before_install:
   - which python; python --version
   - pip install --upgrade pip
   - pip install --upgrade wheel
+  - pip install tox-travis
 
 script:
  - tox
