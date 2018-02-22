@@ -35,7 +35,7 @@ setup(
         'ecdsa',
         'pylibscrypt',
         'scrypt',
-        'pycrypto',
+        'pycryptodome',
         'urllib3>=1.21.1',
         'certifi',
         'ujson',
