@@ -1,4 +1,5 @@
 pytest
+pytest-runner
 pep8
 yapf
 sphinx
