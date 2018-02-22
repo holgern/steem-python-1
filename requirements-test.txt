@@ -1,6 +1,5 @@
 pytest
 pep8
-pytest-pylint
 yapf
 sphinx
 recommonmark
